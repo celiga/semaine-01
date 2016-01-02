@@ -17,7 +17,7 @@
 * 2007 : Master Géomarketing (Université Paris XII)</li>
 
 ## Pourquoi je suis sur Simplonline ?
-Pour évoluer vers la programmation orientée objet, apprendre de nouveaux langages (SQL, Ruby, etc) et outils (Git).
+Pour évoluer vers la programmation orientée objet, apprendre de nouveaux langages (SQL, Ruby), méthodologies et outils (Git, etc).
 
 ## Ma devise
 > Small changes make a big difference  
